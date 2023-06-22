@@ -1,0 +1,102 @@
+.post-page {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  article {
+    margin-bottom: 20px;
+  }
+  
+  article h2 {
+    color: #333;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .post-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .post-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .post-details {
+    margin-bottom: 20px;
+  }
+  
+  .post-author,
+  .post-date {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 5px;
+  }
+  
+  .post-content {
+    margin-bottom: 10px;
+  }
+  
+  .post-tags .tag {
+    display: inline-block;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 4px 8px;
+    border-radius: 4px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    font-size: 12px;
+  }
+  
+  /* Additional styles for better readability */
+  
+  .post-content p {
+    line-height: 1.5;
+  }
+  
+  .post-tags .tag:hover {
+    background-color: #e0e0e0;
+    cursor: pointer;
+  }
+  
+  .post-side-image-card {
+    padding-left: 20px;
+    margin-right: 20px;
+    background-color: #f0f0f0;
+    border-radius: 4px;
+    display: inline-block;
+  }
+  
+  .post-side-image {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 4px;
+    margin-left: -20%;
+  }
+  
+  /* Rest of the existing styles */
+  
