@@ -10,6 +10,7 @@ import NotFound from './components/pages/NotFound';
 import  Post from './components/pages/post'
 import Author from './components/pages/author';
 
+
 function App() { 
   return (
     <>
